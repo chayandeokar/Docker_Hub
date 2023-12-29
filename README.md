@@ -11,27 +11,71 @@ docker push - push an image to a registry
 
 
 docker build - build an image from a Dockerfile
+
+
 docker ps - list running containers
+
+
 docker stop - stop a running container
+
+
 docker start - start a stopped container
+
+
 docker restart - restart a container
+
+
 docker logs - show the logs of a container
+
+
 docker exec - execute a command inside a running container
+
+
 docker images - list available images
+
+
 docker rm - remove a container
+
+
 docker rmi - remove an image
+
+
 docker inspect - show information about a container
+
+
 docker network create - create a network for containers to communicate
+
+
 docker network connect - connect a container to a network
+
+
 docker network disconnect - disconnect a container from a network
+
+
 docker port - show the mapped ports of a container
+
+
 docker cp - copy files between a container and the host
+
+
 docker commit - create a new image from a container's changes
+
+
 docker login - log in to a registry
+
+
 docker logout - log out of a registry
+
+
 docker tag - tag an image with a new name
+
+
 docker export - export the contents of a container as a tar archive
+
+
 docker import - create a new image from a tar archive
+
+
 docker save - save an image as a tar archive
 docker load - load an image from a tar archive
 docker top - show the processes running inside a container
