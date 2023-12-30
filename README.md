@@ -114,6 +114,7 @@ docker attach - attach to a running container's console
 
 docker buildx - build and push multi-platform images
 
+_-------_-----------_---------------------------------------------
 
 docker compose - manage multi-container applications with Docker Compose
 
