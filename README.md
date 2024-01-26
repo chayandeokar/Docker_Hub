@@ -1,5 +1,4 @@
-
- The Ultimate Docker 50 commands 
+Docker commands 
 _________________
 docker run - run a container from an image
 
