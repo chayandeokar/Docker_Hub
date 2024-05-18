@@ -14,7 +14,9 @@ docker build - build an image from a Dockerfile
 
 docker ps - 
 
-docker 
+docker ps -a
+
+ls -ll # long list
 
 
 docker stop - stop a running container
