@@ -12,7 +12,9 @@ docker push - push an image to a registry
 docker build - build an image from a Dockerfile
 
 
-docker ps - list running containers
+docker ps - 
+
+docker 
 
 
 docker stop - stop a running container
